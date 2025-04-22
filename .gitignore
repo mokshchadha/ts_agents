@@ -134,3 +134,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+venv
+
+faiss_index
+
+chunk_sources.pkl
+file_names.pkl

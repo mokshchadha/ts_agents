@@ -1,8 +1,11 @@
-export function add(a: number, b: number): number {
-  return a + b;
-}
+import {GoogleAIAgent} from './src/google-ai-agent.ts'
+import process from "node:process";
 
-// Learn more at https://docs.deno.com/runtime/manual/examples/module_metadata#concepts
-if (import.meta.main) {
-  console.log("Add 2 + 3 =", add(2, 3));
-}
+const service = new GoogleAIAgent(process.env.GEMINI_KEY!)
+
+const clientCheckAgent = service.agent({
+  name: 'ClientCheckAgent',
+  instruction: "",
+  description: "",
+  isGoogleSearchEnabled: false
+})

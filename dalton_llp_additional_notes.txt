@@ -1,0 +1,76 @@
+# Dalton Finegold, LLP - Property Search SOP
+
+## Search Types and Requirements
+
+| Search Type | Parameter | Requirements | Comments |
+|-------------|-----------|--------------|----------|
+| COS (Current Owner Search) | State Statute | Current Owner Full Value Deed forward | |
+| TOS (Two Owner Search) | State Statute | 2 Owners Full Value Deed forward | |
+| Full Search | State Statute | Developer Deed or State Statute, whichever is earlier | As per Pippin Standard |
+
+## Document Requirements
+
+| Document Type | Requirement | Comments |
+|---------------|-------------|----------|
+| Assessor/Property Card | Required | Subject to online availability |
+| Taxes | Online Taxes or Tax Calling | |
+| GIS/Plat map | Required | Subject to online availability |
+| Chain of Title | 24 months | |
+| PACER | Required | |
+| OFAC | Required | |
+
+## Document Information Status
+
+| Document Type | Status | Requirements |
+|---------------|--------|--------------|
+| Deeds | N/A | Complete Pages |
+| Mortgages | N/A | Pertinent Pages |
+| Liens/Judgments | N/A | Complete Pages |
+| Misc Documents | N/A | Complete Pages |
+| Exceptions | N/A | Pertinent Pages |
+| Probate | Required | Irrespective of the grantor/grantee of any deeds |
+| Divorce | Required | Irrespective of the grantor/grantee of any deeds |
+| Foreclosures | Required | See detailed requirements below |
+
+## Foreclosure Requirements
+
+For all foreclosures, the following documents are required:
+
+1. Deed into mortgage (need to make sure mortgagor had proper title and the property description matches the property description on the mortgage)
+2. Mortgage (full is needed to make sure there are no issue with execution or other)
+3. Assignments (all of them as we must link the chain of title from original mortgagee to the foreclosing mortgagee)
+4. Notice of SCRA (service members act protects our service people oversees)
+5. Judgment of SCRA (have to make sure it is dated without 3 year of the foreclosure otherwise foreclosure could be considered defective)
+6. 35B and 35C affidavits (post 11-1-2012)
+7. Certificate of Entry
+8. Foreclosure Deed with affidavit and tear sheet (publication)
+9. Eaton Affidavit (post 6-22-2012 – certifies that the mortgagee is the Note holder from the beginning to the end of the foreclosure process)
+10. Pinti Affidavit (post 7-17-15 – certifies that the mortgagee strictly complied with the terms of the mortgage)
+
+## Partial Delivery Specifications
+
+Partial delivery is applicable for:
+- Documents
+- Taxes
+- Probate
+- Divorce
+
+Deliver with a Note.
+
+## Delivery Information
+
+- Delivery Channel: Qualia
+- Attorney Opinion Letter: N/A
+
+## Special Instructions
+
+- No need to update and send message on the client portal: "Dear Customer, Your search has been completed and uploaded into the portal. We are looking forward to your future business. Thank you, Pippin Title".
+- Need to perform Search in both Registries: Recorded Land Records & Register Land Records
+- Registered/recorded status for parcels on the cover page should be typed under Assessment Information
+- Do not miss any Death Certificates, State Tax Affidavits and Deeds recorded Power of Attorney
+- Mention that probates are no orders when needed - for a spouse that dies, no need to include probate docs
+- Page numbers to be added to the search packages
+- Consider legal from the Deed descriptions for condominium properties and not from Exhibit A descriptions
+- Pending documents can be delivered with a Note "Copies to follow" on Coversheet
+- For Probate(s) need to place request through 2 day FedEx option
+- Need to add Pages Numbers for Search Package
